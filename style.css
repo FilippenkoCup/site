@@ -1,12 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
 .container {
- margin-top: 10px;
-   margin-right: 50px;
+    margin-top: 10px;
+    margin-right: 50px;
     margin-left: 50px;
- background-color: red;
+    background-color: red;
 }
-
 h1 {
- font-family: 'Open Sans', sans-serif; 
+    font-family: 'Open Sans', sans-serif;
 }
