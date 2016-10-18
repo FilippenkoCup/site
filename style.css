@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 .container {
     margin-top: 10px;
-    margin-right: 50px;
-    margin-left: 50px;
+    margin-right: 125px;
+    margin-left: 125px;
     background-color: red;
 }
 h1 {
